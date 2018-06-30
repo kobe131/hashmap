@@ -1,0 +1,37 @@
+div {
+  height: 200px;
+  width:200px;
+  padding: 50px;
+  border: 5px solid black;
+  overflow:hidden;
+  
+}
+
+
+#first-div {
+  background-color: #39cccc;
+}
+
+#second-div {
+  background-color: #ff4136;
+  box-sizing: border-box;
+}
+
+#new-div {
+  height: 10px;
+  box-sizing: border-box
+  
+}
+#image-1-container {
+  width: 500px;
+  height: 600px;
+  
+  background-color: yellow
+  
+  
+}
+
+p {
+  width: 200px;
+  background-color: #7fdbff;
+}
